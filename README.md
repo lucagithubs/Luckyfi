@@ -1,7 +1,7 @@
 # 🎵 Luckyfi – A Spotify-Inspired Music Platform
 
 ---
-                                                       ⚠️ Disclaimer
+⚠️ Disclaimer
 ---
 This project is for educational and personal use only. It is not affiliated with Spotify or Kanye West in any way. All music used is for demonstration purposes.
 
