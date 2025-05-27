@@ -27,11 +27,10 @@ _More artists and tracks will be added soon!_
 ## 🚀 Tech Stack
 - HTML, CSS, JavaScript
 - Audio API for playback
-- (Optional: React, Vue, or any frameworks you used)
-- Hosted via GitHub Pages / Vercel / Netlify
+- Hosted via GitHub Pages/ Netlify
 
 ---
 
 ## 📸 Screenshots
 
-![Spotitune Preview](https://yourwebsite.com/screenshot1.png)
+![Luckyfi Preview](https://luckyfi.netlify.app/screenshot1.png)
