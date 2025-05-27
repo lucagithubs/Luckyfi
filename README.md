@@ -1,5 +1,37 @@
-# 🌐 My Website
+# 🎵 Luckyfi – A Spotify-Inspired Music Platform
 
-Check it out here: [Visit my website](https://luckyfi.netlify.app/)
+> 🚧 Just a fun personal project For Learning Scripting – not affiliated with Spotify.
 
-This is my personal site where I share my games, code, and experiments. Feel free to explore!
+Welcome to **Luckify**, a Spotify-style music streaming clone created for fun and to practice front-end web development. Right now, it features tracks from **Kanye West** (more artists coming soon!).
+
+🌐 **Live site:** [Luckyfi](https://luckyfi.netlify.app/)
+
+---
+
+## 💡 Features
+- 🎧 Dark, Spotify-style UI
+- 🔊 Play, pause, and volume control
+- 🎵 Hand-picked music (currently: Kanye West)
+- ❤️ Like your favorite tracks
+- 📱 Responsive design (works on mobile & desktop)
+
+---
+
+## 🎤 Current Artist Library
+- **Kanye West** (Albums & Singles)
+
+_More artists and tracks will be added soon!_
+
+---
+
+## 🚀 Tech Stack
+- HTML, CSS, JavaScript
+- Audio API for playback
+- (Optional: React, Vue, or any frameworks you used)
+- Hosted via GitHub Pages / Vercel / Netlify
+
+---
+
+## 📸 Screenshots
+
+![Spotitune Preview](https://yourwebsite.com/screenshot1.png)
