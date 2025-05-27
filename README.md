@@ -33,4 +33,4 @@ _More artists and tracks will be added soon!_
 
 ## 📸 Screenshots
 
-![Luckyfi Preview](https://luckyfi.netlify.app/screenshot1.png)
+![Luckyfi Preview](https://luckyfi.netlify.app/img/screenshot1.png)
