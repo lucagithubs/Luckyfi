@@ -1,6 +1,7 @@
 # 🎵 Luckyfi – A Spotify-Inspired Music Platform
 
-> 🚧 Just a fun personal project For Learning Scripting – not affiliated with Spotify.
+                                                       ⚠️ Disclaimer
+This project is for educational and personal use only. It is not affiliated with Spotify or Kanye West in any way. All music used is for demonstration purposes.
 
 Welcome to **Luckify**, a Spotify-style music streaming clone created for fun and to practice front-end web development. Right now, it features tracks from **Kanye West** (more artists coming soon!).
 
